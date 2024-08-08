@@ -1,6 +1,6 @@
 # ComputerAid
 
-**Luxolo Nyati ST1041088**
+**Luxolo Nyati ST10451088**
 
 **Risa Islam ST10458872**
 
